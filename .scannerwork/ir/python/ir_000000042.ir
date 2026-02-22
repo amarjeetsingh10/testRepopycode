@@ -1,0 +1,9 @@
+
+0'"Return the difference of two numbers."stra (b ("l3
+1
+ ("
+
+calculator_validate_numbers:%
+#
+ ("	#binop -#*2-:
+ (*-D:\dummy_project\testRepopycode\calculator.py
