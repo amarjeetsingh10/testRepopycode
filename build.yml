@@ -17,3 +17,5 @@ jobs:
         uses: SonarSource/sonarqube-scan-action@v6
         env:
           SONAR_TOKEN: 16f5ffbc709a492f14a165e17a0673b37be387ef
+          Sonar_token01: 5b24da11dc350e51790b87b93b8210016a567191
+          
